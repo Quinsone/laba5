@@ -1,1 +1,1 @@
-# laba5
+# Pure python QR Code generator
